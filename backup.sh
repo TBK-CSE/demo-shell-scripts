@@ -6,6 +6,7 @@ This shell script will take periodic backups
 Eg : ./backup.sh <source> <destination>
 src /home/ubuntu/scripts
 dest /home/ubuntu/backups
+Updated comment : Can also be used with cron
 help
 
 
